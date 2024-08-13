@@ -19,7 +19,7 @@ Dependencies needed to run the project locally:
       <li> Just select Page.html and click the "Go Live" button on the bottom right </li>
       <li> Alternatively, can just drag Page.html in the browser or enter the file location in the url section of the browser (e.g, like file:///c%3A/Users/"Your Name"/Desktop//FYP/Github%20Projects/FIT4107FYP-Project2/Page.html) </li>
     </ol>
-</ol>
+</ol>ns
 
 
 To run the back-end / server that connects to the ChatGPT API, please run `cd server-side` in the project terminal.
